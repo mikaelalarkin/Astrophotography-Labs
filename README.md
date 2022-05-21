@@ -1,3 +1,3 @@
 # Phys164Labs
 
-Three lab reports and corresponding code for the course Physics 164 (Observational Astrophysics Lab) at UCSD
+Lab work related to data analysis and spectrosocopy for telescope images, aligning pictures of stars with their catalogued positions, and tracking the proper motion of a specific asteroid.
